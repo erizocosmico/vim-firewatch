@@ -11,20 +11,7 @@ endif
 set t_Co=256
 let g:colors_name = "firewatch"
 
-"hi CTagsMember -- no settings --
-"hi CTagsGlobalConstant -- no settings --
-"hi Ignore -- no settings --
 hi Normal guifg=#a5acbd guibg=#1e2127 guisp=#1e2127 gui=NONE ctermfg=103 ctermbg=235 cterm=NONE
-"hi CTagsImport -- no settings --
-"hi CTagsGlobalVariable -- no settings --
-"hi EnumerationValue -- no settings --
-"hi Union -- no settings --
-"hi Question -- no settings --
-"hi EnumerationName -- no settings --
-"hi DefinedName -- no settings --
-"hi LocalVariable -- no settings --
-"hi CTagsClass -- no settings --
-"hi clear -- no settings --
 hi IncSearch guifg=#ffffff guibg=#c45b1a guisp=#c45b1a gui=NONE ctermfg=15 ctermbg=1 cterm=NONE
 hi WildMenu guifg=NONE guibg=#A1A6A8 guisp=#A1A6A8 gui=NONE ctermfg=NONE ctermbg=248 cterm=NONE
 hi SignColumn guifg=#192224 guibg=#536991 guisp=#536991 gui=NONE ctermfg=235 ctermbg=60 cterm=NONE
